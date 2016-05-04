@@ -1,29 +1,41 @@
-name: Alicissimo Fly Fishes
-favicon: null
-layout_spectrum: 0.7200121216010302
-typography_spectrum: 0.91162
 title: 'Outdoor Lifestyle '
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.375
+  brandStrength: 0.1875
+  lightness: 0
+  brandColors:
+    - '#79766F'
+    - '#1F2024'
+    - '#545550'
+    - '#C1B9B6'
+    - '#FFFFFF'
+  rhythmicContrast: 0.5667134211398661
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Alicissimo Fly Fishes
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.1875
-  lightness: 0
-  saturation: 0.375
-  rhythmicContrast: 0.5667134211398661
-purpose: []
+typography_spectrum: 0.0925926
+layout_spectrum: 0.7759856
